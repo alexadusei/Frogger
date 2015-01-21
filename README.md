@@ -1,5 +1,5 @@
 # Frogger
-Made a java desktop game based on the arcade classic Frogger. This was a practice assignment dealing with object-oriented programming.
+Made a java desktop game based on the arcade classic Frogger. This was a practice dealing with object-oriented programming.
 
 #Concept
 
